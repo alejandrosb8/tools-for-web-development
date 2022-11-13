@@ -1,4 +1,6 @@
 # Tools for web development
+Some frontend developer tools I use, backend tools coming soon.
+
 ## Frontend
 * [Hypercolor](https://hypercolor.dev/): A curated collection of beautiful Tailwind CSS gradients using the full range of Tailwind CSS colors. Easily copy and paste the class names, CSS or even save the gradients as an image.
 * [Compress Image](https://compressimage.io/): Compress JPG and PNG images at light speed with Browser based Image compressor.
@@ -23,11 +25,13 @@
 * [CSS Loaders Collection](https://cssloaders.github.io/)
 * [Htmhell](https://www.htmhell.dev/): A collection of bad practices in HTML, copied from real websites.
 
-## Icons
+## Icons and Images
 * [Iconoir (1206 icons)](https://iconoir.com/): Iconoir is one of the biggest open source icons libraries. No premium icons, no email sign-up, no newsletters. Icons available in SVG format, Font, React and React Native libraries, Figma and Framer.
 * [CSS icons (+700 icons)](https://css.gg/): Open-source CSS, SVG and Figma UI Icons. Available in SVG Sprite, styled-components, NPM & API.
 * [Heroicons (292 icons)](https://heroicons.com/): Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
 * Tabler Icons
+* [Lotties Files](https://lottiefiles.com/): Lightweight, scalable animations for your website and apps.
+* [Unsplash](https://unsplash.com/): Beautiful, free images and photos that you can download and use for any project.
 
 ## Website with resources
 [recursoscosmicos.com](https://recursoscosmicos.com/)
