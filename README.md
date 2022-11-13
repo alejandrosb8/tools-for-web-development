@@ -1,4 +1,4 @@
-# Tools of web development
+# Tools for web development
 ## Frontend
 * [Hypercolor](https://hypercolor.dev/): A curated collection of beautiful Tailwind CSS gradients using the full range of Tailwind CSS colors. Easily copy and paste the class names, CSS or even save the gradients as an image.
 * [Compress Image](https://compressimage.io/): Compress JPG and PNG images at light speed with Browser based Image compressor.
