@@ -6,6 +6,7 @@ Some frontend developer tools I use, backend tools coming soon.
 * [Compress Image](https://compressimage.io/): Compress JPG and PNG images at light speed with Browser based Image compressor.
 * [Font Buddies](https://www.fontbuddies.com/): Handpicked font pairings to use in your UI & design projects.
 * [Fontjoy](https://fontjoy.com/): Generate font combinations with deep learning.
+* [Google Fonts](https://fonts.google.com/): Google Fonts is a library of 1462 open source font families and APIs for convenient use via CSS and Android.
 * [Gradient Text Generator](https://www.cssgradienttext.com/): Gradient Text Generator for CSS
 * [Waifu2x](http://waifu2x.udp.jp/index.es.html): Easily double the size of your images and photos with a single click. Reduce the noise of your pictures and improve their appearance.
 * [Keyframes](https://keyframes.app/): Browser-based, mobile-friendly, actually private tools that make CSS a little less bad and have a animation editor.
@@ -39,6 +40,7 @@ Some frontend developer tools I use, backend tools coming soon.
 * [Lotties Files](https://lottiefiles.com/): Lightweight, scalable animations for your website and apps.
 * [Unsplash](https://unsplash.com/): Beautiful, free images and photos that you can download and use for any project.
 * [Logo Makr](https://logomakr.com/): Create a logo for your business or websites.
+* [Material Design Icons](https://materialdesignicons.com/): Material Design Icons' growing icon collection allows designers and developers targeting various platforms to download icons in the format, color and size they need for any project.
 
 ## Website with resources
 [recursoscosmicos.com](https://recursoscosmicos.com/)
