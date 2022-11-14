@@ -9,15 +9,21 @@ Some frontend developer tools I use, backend tools coming soon.
 * [Gradient Text Generator](https://www.cssgradienttext.com/): Gradient Text Generator for CSS
 * [Waifu2x](http://waifu2x.udp.jp/index.es.html): Easily double the size of your images and photos with a single click. Reduce the noise of your pictures and improve their appearance.
 * [Keyframes](https://keyframes.app/): Browser-based, mobile-friendly, actually private tools that make CSS a little less bad and have a animation editor.
+* [Animista](https://animista.net/): Animista is a CSS animation library and a place where you can play with a collection of ready-made CSS animations and download only those you will use.
 * [CSS Animations Collection](https://xsgames.co/animatiss/): Nice collection of CSS animations for your awesome web projects.
 * [Easings](https://easings.co/): Test common easing curves on a range of interfaces. Or generate your own custom bezier curve.
 * [Haikei](https://haikei.app/): Generate unique SVG design assets, Haikei is a web app to generate stunning visual content – ready to use with your design tools and workflow.
+* [Get Wavers](https://getwaves.io/): A free SVG wave generator to make unique SVG waves for your next web design. Choose a curve, adjust complexity, randomize.
+* [Clippy](https://bennettfeely.com/clippy/): A clip-path generator.
+* [Fancy border radius](https://9elements.github.io/fancy-border-radius/): A visual generator to build organic looking shapes with the help of CSS3 border-radius property.
 * [Contrast Color Generator](https://randoma11y.com/): Contrast Color Generator.
+* [Adobe Color](https://color.adobe.com/create/color-wheel): Create a color palette, see the color wheel, extract a gradient or check the contrast, all in one.
 * [Contrast Checker](https://webaim.org/resources/contrastchecker/): Contrast checker for foregrounds and backgrounds.
 * [Color&Contrast](https://colorandcontrast.com/): A comprehensive guide for exploring and learning about the theory, science, and perception of color and contrast.
 * [Happy Hues](https://www.happyhues.co/): Happy Hues is a color palette inspiration site that acts as a real world example as to how the colors could be used in your design projects.
 * [Huemint](https://huemint.com/): Huemint uses machine learning to create unique color schemes for your brand, website or graphic.
 * [Shadow Generator](https://shadows.brumm.af/): Shadow generator for CSS.
+* [Neumorphism](https://neumorphism.io/): CSS code generator that will help with colors, gradients and shadows to adapt this new design trend or discover its posibilities.
 * [Omatsuri](https://omatsuri.app/): Open source browser tools for everyday use.
 * [Modern fluid typography](https://modern-fluid-typography.vercel.app/): Fluid typography generator for CSS with clamp.
 * [Fluid type scale calculator](https://utopia.fyi/type/calculator/)
@@ -32,6 +38,7 @@ Some frontend developer tools I use, backend tools coming soon.
 * Tabler Icons
 * [Lotties Files](https://lottiefiles.com/): Lightweight, scalable animations for your website and apps.
 * [Unsplash](https://unsplash.com/): Beautiful, free images and photos that you can download and use for any project.
+* [Logo Makr](https://logomakr.com/): Create a logo for your business or websites.
 
 ## Website with resources
 [recursoscosmicos.com](https://recursoscosmicos.com/)
