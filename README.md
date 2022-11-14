@@ -11,12 +11,18 @@ Some frontend developer tools I use, backend tools coming soon.
 * [Waifu2x](http://waifu2x.udp.jp/index.es.html): Easily double the size of your images and photos with a single click. Reduce the noise of your pictures and improve their appearance.
 * [Keyframes](https://keyframes.app/): Browser-based, mobile-friendly, actually private tools that make CSS a little less bad and have a animation editor.
 * [Animista](https://animista.net/): Animista is a CSS animation library and a place where you can play with a collection of ready-made CSS animations and download only those you will use.
+* [Animxyz](https://animxyz.com/): AnimXYZ helps you create, customize, and compose animations powered by CSS variables without custom keyframes. It works with HTML and CSS, or use our Vue and React integrations for even more power.
 * [CSS Animations Collection](https://xsgames.co/animatiss/): Nice collection of CSS animations for your awesome web projects.
 * [Easings](https://easings.co/): Test common easing curves on a range of interfaces. Or generate your own custom bezier curve.
 * [Haikei](https://haikei.app/): Generate unique SVG design assets, Haikei is a web app to generate stunning visual content – ready to use with your design tools and workflow.
 * [Get Wavers](https://getwaves.io/): A free SVG wave generator to make unique SVG waves for your next web design. Choose a curve, adjust complexity, randomize.
+* [Custom Shape Dividers](https://www.shapedivider.app/): Custom Shape Dividers helps you customize pre-made SVG shape dividers and export them (and the code) for your design projects.
 * [Clippy](https://bennettfeely.com/clippy/): A clip-path generator.
 * [Fancy border radius](https://9elements.github.io/fancy-border-radius/): A visual generator to build organic looking shapes with the help of CSS3 border-radius property.
+* [Buttons Generator](https://markodenic.com/tools/buttons-generator/): Buttons Generator isn’t actually a CSS button generator. Instead, it’s a collection of pre-built buttons with hover animations and the code to go with them.
+* [UIVerse](https://uiverse.io/): Create, share, and use beautiful custom elements made with CSS and HTML.
+* [The Component Gallery](https://component.gallery/): The Component Gallery is an up-to-date repository of user interface component designs based on examples from the world of design systems.
+* [Shaper](https://hihayk.github.io/shaper/): Shaper is a visual design tool for creating beautiful, thematic Ui styles. Adjust a variety of settings to get your demo design just right, then click over to the specs and get the code.
 * [Contrast Color Generator](https://randoma11y.com/): Contrast Color Generator.
 * [Adobe Color](https://color.adobe.com/create/color-wheel): Create a color palette, see the color wheel, extract a gradient or check the contrast, all in one.
 * [Contrast Checker](https://webaim.org/resources/contrastchecker/): Contrast checker for foregrounds and backgrounds.
@@ -26,10 +32,14 @@ Some frontend developer tools I use, backend tools coming soon.
 * [Shadow Generator](https://shadows.brumm.af/): Shadow generator for CSS.
 * [Neumorphism](https://neumorphism.io/): CSS code generator that will help with colors, gradients and shadows to adapt this new design trend or discover its posibilities.
 * [Omatsuri](https://omatsuri.app/): Open source browser tools for everyday use.
+* [10015](https://10015.io/): 10015 is a free all-in-one toolbox solution for front-end web development with tools for working with text, images, CSS, colors, social media, and more.
 * [Modern fluid typography](https://modern-fluid-typography.vercel.app/): Fluid typography generator for CSS with clamp.
 * [Fluid type scale calculator](https://utopia.fyi/type/calculator/)
 * [CSS Glass](https://css.glass/): Create a CSS Glass Effect.
 * [CSS Loaders Collection](https://cssloaders.github.io/)
+* [CSS Stats](https://cssstats.com/): CSS Stats provides analytics and visualizations for your stylesheets. This information can be used to improve consistency in your design, track performance of your app, and diagnose complex areas that might benefit from refactoring.
+* [Whitespaces](https://kirillbelyaev.com/s/): Whitespaces is a super useful reference guide and copy/paste resource for a variety of whitespace types, zero-width characters.
+* [I Hate Regex](https://ihateregex.io/): I Hate Regex is a regex cheat sheet that explains and displays representations of commonly used regular expressions to help you understand them better.
 * [Htmhell](https://www.htmhell.dev/): A collection of bad practices in HTML, copied from real websites.
 
 ## Icons and Images
@@ -41,8 +51,10 @@ Some frontend developer tools I use, backend tools coming soon.
 * [Unsplash](https://unsplash.com/): Beautiful, free images and photos that you can download and use for any project.
 * [Logo Makr](https://logomakr.com/): Create a logo for your business or websites.
 * [Material Design Icons](https://materialdesignicons.com/): Material Design Icons' growing icon collection allows designers and developers targeting various platforms to download icons in the format, color and size they need for any project.
+* [Favicon Maker](https://formito.com/tools/favicon): You can use Free Favicon Maker to create a free favicon for your website. Choose the shape, background color, letter, foreground color, font, size, and more.
 
 ## Website with resources
 [recursoscosmicos.com](https://recursoscosmicos.com/)
+[jenniferbourn.com](https://jenniferbourn.com/web-development-tools/)
 
-Credit to [@carmenansio](https://twitter.com/carmenansio) for sharing these resources with the community.
+Credit to [@carmenansio](https://twitter.com/carmenansio) and [Jennifer Bourn](https://jenniferbourn.com/) for sharing these resources with the community.
