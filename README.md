@@ -15,6 +15,7 @@ Some frontend developer tools I use, backend tools coming soon.
 * [CSS Animations Collection](https://xsgames.co/animatiss/): Nice collection of CSS animations for your awesome web projects.
 * [Easings](https://easings.co/): Test common easing curves on a range of interfaces. Or generate your own custom bezier curve.
 * [Haikei](https://haikei.app/): Generate unique SVG design assets, Haikei is a web app to generate stunning visual content – ready to use with your design tools and workflow.
+* [SVGator](https://www.svgator.com/): SVGator is the ultimate SVG animation generator: a thoughtfully designed, intuitive interface, right at your fingertips.
 * [Get Wavers](https://getwaves.io/): A free SVG wave generator to make unique SVG waves for your next web design. Choose a curve, adjust complexity, randomize.
 * [Custom Shape Dividers](https://www.shapedivider.app/): Custom Shape Dividers helps you customize pre-made SVG shape dividers and export them (and the code) for your design projects.
 * [Clippy](https://bennettfeely.com/clippy/): A clip-path generator.
