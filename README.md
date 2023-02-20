@@ -42,6 +42,9 @@ Some frontend developer tools I use, backend tools coming soon.
 * [Whitespaces](https://kirillbelyaev.com/s/): Whitespaces is a super useful reference guide and copy/paste resource for a variety of whitespace types, zero-width characters.
 * [I Hate Regex](https://ihateregex.io/): I Hate Regex is a regex cheat sheet that explains and displays representations of commonly used regular expressions to help you understand them better.
 * [Htmhell](https://www.htmhell.dev/): A collection of bad practices in HTML, copied from real websites.
+* [GSAP](https://greensock.com/gsap/): Professional-grade JavaScript animation for the modern web.
+* [Asscroll](https://github.com/ashthornton/asscroll): ASScroll is a Javascript hybrid smooth scroll setup that combines the
+performance gains of virtual scroll with the reliability of native scroll.
 
 ## Icons and Images
 * [Iconoir (1206 icons)](https://iconoir.com/): Iconoir is one of the biggest open source icons libraries. No premium icons, no email sign-up, no newsletters. Icons available in SVG format, Font, React and React Native libraries, Figma and Framer.
@@ -53,9 +56,6 @@ Some frontend developer tools I use, backend tools coming soon.
 * [Logo Makr](https://logomakr.com/): Create a logo for your business or websites.
 * [Material Design Icons](https://materialdesignicons.com/): Material Design Icons' growing icon collection allows designers and developers targeting various platforms to download icons in the format, color and size they need for any project.
 * [Favicon Maker](https://formito.com/tools/favicon): You can use Free Favicon Maker to create a free favicon for your website. Choose the shape, background color, letter, foreground color, font, size, and more.
-* [GSAP](https://greensock.com/gsap/): Professional-grade JavaScript animation for the modern web.
-* [Asscroll](https://github.com/ashthornton/asscroll): ASScroll is a Javascript hybrid smooth scroll setup that combines the
-performance gains of virtual scroll with the reliability of native scroll.
 
 ## Website with resources
 [recursoscosmicos.com](https://recursoscosmicos.com/)
