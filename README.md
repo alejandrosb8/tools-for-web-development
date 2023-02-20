@@ -45,6 +45,7 @@ Some frontend developer tools I use, backend tools coming soon.
 * [GSAP](https://greensock.com/gsap/): Professional-grade JavaScript animation for the modern web.
 * [Asscroll](https://github.com/ashthornton/asscroll): ASScroll is a Javascript hybrid smooth scroll setup that combines the
 performance gains of virtual scroll with the reliability of native scroll.
+* [Awwwards](https://www.awwwards.com/): Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
 
 ## Icons and Images
 * [Iconoir (1206 icons)](https://iconoir.com/): Iconoir is one of the biggest open source icons libraries. No premium icons, no email sign-up, no newsletters. Icons available in SVG format, Font, React and React Native libraries, Figma and Framer.
