@@ -53,6 +53,9 @@ Some frontend developer tools I use, backend tools coming soon.
 * [Logo Makr](https://logomakr.com/): Create a logo for your business or websites.
 * [Material Design Icons](https://materialdesignicons.com/): Material Design Icons' growing icon collection allows designers and developers targeting various platforms to download icons in the format, color and size they need for any project.
 * [Favicon Maker](https://formito.com/tools/favicon): You can use Free Favicon Maker to create a free favicon for your website. Choose the shape, background color, letter, foreground color, font, size, and more.
+* [GSAP](https://greensock.com/gsap/): Professional-grade JavaScript animation for the modern web.
+* [Asscroll](https://github.com/ashthornton/asscroll): ASScroll is a Javascript hybrid smooth scroll setup that combines the
+performance gains of virtual scroll with the reliability of native scroll.
 
 ## Website with resources
 [recursoscosmicos.com](https://recursoscosmicos.com/)
