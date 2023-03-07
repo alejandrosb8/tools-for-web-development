@@ -50,6 +50,15 @@ performance gains of virtual scroll with the reliability of native scroll.
 * [Tailkit](https://tailkit.com/): TCarefully crafted, easy to customize, fully responsive UI Components, Templates and Tools for your Tailwind CSS based projects.
 * [Tailwind Kit](https://www.tailwind-kit.com/): Tail-kit gives you access to over 250 free components and free templates, based on Tailwind CSS 3.0. It's all compatible with React, VueJS and Angular application.
 
+## React libraries
+* [React-pdf](https://react-pdf.org/): React renderer for creating PDF files on the browser and server.
+* [UseAnimations](https://react.useanimations.com/): React micro-animations icons library.
+* [React Hot Toast](https://react-hot-toast.com/): Smoking hot React notifications toast.
+* [React DayPicker](https://react-day-picker.js.org/): React DayPicker is a date picker component for React. Renders a calendar where the user can browse months to select days. DayPicker is customizable, works great with input fields and can be styled to match any design.
+* [FilePond](https://pqina.nl/filepond/): A JavaScript library that can upload anything you throw at it, optimizes images for faster uploads, and offers a great, accessible, silky smooth user experience.
+* [Luxon](https://moment.github.io/luxon/#/): A powerful, modern, and friendly wrapper for JavaScript dates and times.
+* [React Window](https://react-window.vercel.app/#/examples/list/fixed-size): React window works by only rendering part of a large data set (just enough to fill the viewport). This helps address some common performance bottlenecks.
+
 ## Icons and Images
 * [Iconoir (1206 icons)](https://iconoir.com/): Iconoir is one of the biggest open source icons libraries. No premium icons, no email sign-up, no newsletters. Icons available in SVG format, Font, React and React Native libraries, Figma and Framer.
 * [CSS icons (+700 icons)](https://css.gg/): Open-source CSS, SVG and Figma UI Icons. Available in SVG Sprite, styled-components, NPM & API.
