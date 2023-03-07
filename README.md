@@ -49,6 +49,7 @@ performance gains of virtual scroll with the reliability of native scroll.
 * [Flowbite](https://flowbite.com/): Start developing with an open-source library of over 450+ UI components, sections, and pages built with the utility classes from Tailwind CSS and designed in Figma.
 * [Tailkit](https://tailkit.com/): TCarefully crafted, easy to customize, fully responsive UI Components, Templates and Tools for your Tailwind CSS based projects.
 * [Tailwind Kit](https://www.tailwind-kit.com/): Tail-kit gives you access to over 250 free components and free templates, based on Tailwind CSS 3.0. It's all compatible with React, VueJS and Angular application.
+* [AI component generator](https://ai2ui.co/): Ask for any component. AI will generate it for you.
 
 ## React libraries
 * [React-pdf](https://react-pdf.org/): React renderer for creating PDF files on the browser and server.
