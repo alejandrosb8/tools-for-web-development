@@ -38,6 +38,7 @@ Some frontend developer tools I use, backend tools coming soon.
 * [Fluid type scale calculator](https://utopia.fyi/type/calculator/)
 * [CSS Glass](https://css.glass/): Create a CSS Glass Effect.
 * [CSS Loaders Collection](https://cssloaders.github.io/)
+* [Uiball loaders](https://uiball.com/loaders/)
 * [CSS Stats](https://cssstats.com/): CSS Stats provides analytics and visualizations for your stylesheets. This information can be used to improve consistency in your design, track performance of your app, and diagnose complex areas that might benefit from refactoring.
 * [Whitespaces](https://kirillbelyaev.com/s/): Whitespaces is a super useful reference guide and copy/paste resource for a variety of whitespace types, zero-width characters.
 * [I Hate Regex](https://ihateregex.io/): I Hate Regex is a regex cheat sheet that explains and displays representations of commonly used regular expressions to help you understand them better.
